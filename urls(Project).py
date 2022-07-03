@@ -16,7 +16,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from django.conf.urls import include
-from inser.views import home
+from inser.index import home
 
 urlpatterns = [
  path('', include('inser.urls')),
