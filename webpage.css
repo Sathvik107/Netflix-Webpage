@@ -20,7 +20,6 @@ select.option{
 }
 .sign{
     float: left;
-    display: inline-block;
     box-sizing: content-box;
     font-size: larger;
     font-family: 'Times New Roman', Times, serif;
