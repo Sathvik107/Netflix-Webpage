@@ -21,6 +21,7 @@ select.option{
 .sign{
     float: left;
     font-size: larger;
+    box-sizing: content-box;
     font-family: 'Times New Roman', Times, serif;
     background-color: rgb(225, 9, 9);
     margin-top: 2%;
