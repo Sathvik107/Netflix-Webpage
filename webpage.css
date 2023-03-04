@@ -10,6 +10,7 @@
 }
 select.option{
     float: left;
+    box-sizing: content-box;
     color: black;
     margin-left: 35%;
     margin-top: 2%;
