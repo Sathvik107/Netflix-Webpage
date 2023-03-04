@@ -20,7 +20,6 @@ select.option{
 }
 .sign{
     float: left;
-    box-sizing: content-box;
     font-size: larger;
     font-family: 'Times New Roman', Times, serif;
     background-color: rgb(225, 9, 9);
